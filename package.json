@@ -2,7 +2,7 @@
   "name": "react-notes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vishal-github-org/Yours-ToDo-List",
+  "homepage": "https://vishal-github-org/Yours-ToDo-List",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
